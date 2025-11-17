@@ -8,42 +8,43 @@ Growth trends
 Impact on different regions
 
 Predictions for future cases
+
 **Project Objective**
 
-Which countries have the highest COVID-19 cases?
+1.Which countries have the highest COVID-19 cases?
 
-How fast is the virus spreading?
+2.How fast is the virus spreading?
 
-What is the recovery and mortality rate?
+3.What is the recovery and mortality rate?
 
 **Data Cleaning**
 
-Handling missing values
+1.Handling missing values
 
-Converting date format
+2.Converting date format
 
-Grouping country/state data
+3.Grouping country/state data
 
-Calculating daily and total cases
+4.Calculating daily and total cases
+
 **Output / Final Results**
 
-Trend graphs of cases
+1.Trend graphs of cases
 
-Comparison with countries/states
+2.Comparison with countries/states
 
-Prediction graphs
+3.Prediction graphs
 
-Recovery and death ratio
+4.Recovery and death ratio
 
-Key insights (e.g., lockdown effect, waves)
+5.Key insights (e.g., lockdown effect, waves)
 
 **Conclusion of the Project**
 
+1.How COVID-19 spread
 
-How COVID-19 spread
+2.Which regions were most affected
 
-Which regions were most affected
+3.How effective were measures taken
 
-How effective were measures taken
-
-Future case trends
+4.Future case trends
